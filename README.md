@@ -7,6 +7,6 @@ This repository will contain my thought experiments conducted in the field of De
 
     And it turned out that it's true.
 
-    [NBbviewer](https://nbviewer.jupyter.org/github/ayulockin/Thought-Experiments/blob/master/Meow_and_Woof.ipynb)
+    [Nbviewer](https://nbviewer.jupyter.org/github/ayulockin/Thought-Experiments/blob/master/Meow_and_Woof.ipynb)
 
 2. Coming Soon.
